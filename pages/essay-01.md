@@ -6,7 +6,7 @@ permalink: /essay-01.html
 
 {% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
 
-# My Essay Title
+# America's Political Reesponse to Communsim
 
 ## Introduction
 
