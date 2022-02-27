@@ -7,7 +7,7 @@ permalink: /essay-01.html
 {% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
 
 # America's Political Reesponse to Communsim
-
+The United States wavered between maintaing neutrality or becoming entrenched in global affairs, which excaberated the tensions between isolationism and internationalism. Paul Nitze, author of "NSC 68: 'United States Objectives and Programs for National Security," argued that America should "affirm the necessity of their positive participation in the global community" (Nitize 14). This idea suggested that the United States should position itself as a world leader if it wanted to unite its allies against communism (Nitze 14).
 ## Introduction
 
 Here's some sample text, written in Markdown.
