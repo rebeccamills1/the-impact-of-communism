@@ -13,9 +13,13 @@ permalink: /essay-01.html
 This line graph explores the relationship between communism and its implications for America's political rhetoric. I am not suprised that the use of "soviet policy" rose between 1952 and 1976 because these decades represent the height of the Cold War. I find it interesting that the Soviet Union continued to influence political rhetoric in the United States in 2000. This graph demonstrates how communism molded America's foreign and domestic policy decisions during the 20th Century.
 
 The United States wavered between maintaing neutrality or becoming entrenched in global affairs, which excaberated the tensions between isolationism and internationalism. Paul Nitze, author of "NSC 68: 'United States Objectives and Programs for National Security," argued that America should "affirm the necessity of their positive participation in the global community" (Nitize 14). This idea suggested that the United States should position itself as a world leader if it wanted to unite its allies against communism (Nitze 14).
+
 *McCarthyism*
+
 **Soviet Union**
+
 [National Security Council Report, NSC 68, 'United States Objectives and Programs for National Security'](https://digitalarchive.wilsoncenter.org/document/116191.pdf)
+
 -Joseph McCarthy
 -Communism
 -National Civic Federation
