@@ -21,8 +21,11 @@ The United States wavered between maintaing neutrality or becoming entrenched in
 [National Security Council Report, NSC 68, 'United States Objectives and Programs for National Security'](https://digitalarchive.wilsoncenter.org/document/116191.pdf)
 
 -Joseph McCarthy
+
 -Communism
+
 -National Civic Federation
+
 ## Introduction
 
 Here's some sample text, written in Markdown.
