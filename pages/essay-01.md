@@ -6,7 +6,7 @@ permalink: /essay-01.html
 
 {% include feature/nav-menu.html sections="Introduction;My First Subheading;Conclusion;Notes" %}
 
-# America's Political Reesponse to Communism
+# America's Political Response to Communism
 
 {% include feature/image.html filename="Party-Platforms-From-1900-1944.png" alt="This image is a world cloud that is generated from Party Platforms from 1900-1944." caption="This is a world cloud generated from the "Party Platforms 1900-1944" corpus." %}
 
