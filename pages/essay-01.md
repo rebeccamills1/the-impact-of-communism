@@ -10,7 +10,7 @@ permalink: /essay-01.html
 
 {% include feature/image.html filename="Party-Platforms-From-1900-1944.png" alt="Word cloud generated from the Party Platforms from 1900-1944" caption="This image is a word cloud generated from the Party Platforms from 1900-1944." %}
 
-{% include feature/image.html filename="U.S.-Russia-Relations-1900-1944-State-of-the-Union-Addresses.png" alt="Image of a trend graph generated from State of the Union Addresses from 1900-1944." caption="This image illustrates how America responded to communist and radical ideologies." %}
+{% include feature/image.html filename="U.S.-Russia-Relations-1900-1944-State-of-the-Union-Addresses.png" alt="This is an image of a trend graph generated from the 20th Century State of the Union Addresses from 1900-1945." caption="This trend graph illustrates how frequently each president mentioned communism, socialist, radical, revolution and Russia in their State of the Union Addresses from 1900-1945." %}
 
 {% include feature/line-chart.html data="party-platforms-20th-century-all" topic=" International relationships" %}
 This line graph explores the relationship between communism and its implications for America's political rhetoric. I am not suprised that the use of "soviet policy" rose between 1952 and 1976 because these decades represent the height of the Cold War. I find it interesting that the Soviet Union continued to influence political rhetoric in the United States in 2000. This graph demonstrates how communism molded America's foreign and domestic policy decisions during the 20th Century.[^1]
