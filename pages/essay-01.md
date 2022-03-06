@@ -35,7 +35,7 @@ Leave an empty line between headings and paragraphs.
 
 Font can be *Italic* or **Bold**.
 
-Citing your work is important! [^1]
+Citing your work is important! [^2]
 
 Title sections of your essay with headings, by adding a pound sign (`#`) in front of the title:
 
