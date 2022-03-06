@@ -10,7 +10,7 @@ permalink: /essay-01.html
 
 
 {% include feature/line-chart.html data="party-platforms-20th-century-all" topic=" International relationships" %}
-This line graph explores the relationship between communism and its implications for America's political rhetoric. I am not suprised that the use of "soviet policy" rose between 1952 and 1976 because these decades represent the height of the Cold War. I find it interesting that the Soviet Union continued to influence political rhetoric in the United States in 2000. This graph demonstrates how communism molded America's foreign and domestic policy decisions during the 20th Century[^1].
+This line graph explores the relationship between communism and its implications for America's political rhetoric. I am not suprised that the use of "soviet policy" rose between 1952 and 1976 because these decades represent the height of the Cold War. I find it interesting that the Soviet Union continued to influence political rhetoric in the United States in 2000. This graph demonstrates how communism molded America's foreign and domestic policy decisions during the 20th Century.[^1]
 
 ---
 
