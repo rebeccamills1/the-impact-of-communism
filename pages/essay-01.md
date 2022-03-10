@@ -8,7 +8,7 @@ permalink: /essay-01.html
 
 # America's Political Response to Communism
 
-{% include feature/image.html filename="Party-Platforms-From-1900-1944.png" alt="Word cloud generated from the Party Platforms from 1900-1944" caption="This image is a word cloud generated from the Party Platforms from 1900-1944." %}
+{% include feature/image.html filename="National Socialist Convention Image 1901.jpg" alt="This is an image of the delegates at the 1901 National Socialist Convention." caption="This is an image of the delegates at the 1901 National Socialist Convention." link="https://tile.loc.gov/storage-services/service/pnp/ppmsca/33900/33991v.jpg" %}
 
 {% include feature/image.html filename="U.S.-Russia-Relations-1900-1944-State-of-the-Union-Addresses.png" alt="This is an image of a trend graph generated from the 20th Century State of the Union Addresses from 1900-1945." caption="This trend graph illustrates how frequently each president mentioned communism, socialist, radical, revolution and Russia in their State of the Union Addresses from 1900-1945." %}
 
