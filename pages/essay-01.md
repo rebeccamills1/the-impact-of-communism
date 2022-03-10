@@ -37,8 +37,7 @@ The United States wavered between maintaing neutrality or becoming entrenched in
 
 ## Introduction
 
-Here's some sample text, written in Markdown.
-In Markdown, any text with no empty lines between will become a paragraph.
+Prior to World War II, Americans viewed communism as both a solution to the problems of capitalism and a threat that clashed with U.S. values. The United States Senate and others recognized that America should spread democracy abroad to counteract the influence of communism. However, others, such as *The Daily Worker*, argued that communism instituted a system of worker equality and allowed them to shake off the chains of capitalist control. These tensions exacerbated conflicts between American communists and anticommunists. During 1900-1945, the United States developed a strained relationship with communism, centered around tensions between the communist, socialist and anti-communist movements, which culminated in the start of the Cold War.[^1]
 
 Leave an empty line between headings and paragraphs.
 
@@ -88,6 +87,5 @@ More documentation on how to write your essay in Markdown--as well as how to inc
 
 ## Notes
 
-[^1]: John D’Agata, ed., *The Making of the American Essay* (Minneapolis: Graywolf Press, 2016), 19–20.
-[^2]: Katie Kitamura, A Separation (New York: Riverhead Books, 2017), 25.
+[^1]: “One Year Old Today,” *The Daily Worker*, January 13, 1925, II edition, sec. 1, https://chroniclingamerica.loc.gov/data/batches/iune_emerald_ver03/data/sn84020097/00332897755/1925011301/0067.pdf.; Lee Overman, “Report of the Overman Committee” *Ideas and American Foreign Policy* (2018), 188-189.
 
