@@ -86,5 +86,5 @@ More documentation on how to write your essay in Markdown--as well as how to inc
 
 ## Notes
 
-[^1]: “One Year Old Today,” *The Daily Worker*, January 13, 1925, II edition, sec. 1, https://chroniclingamerica.loc.gov/data/batches/iune_emerald_ver03/data/sn84020097/00332897755/1925011301/0067.pdf.; Lee Overman, “Report of the Overman Committee” *Ideas and American Foreign Policy* (2018), 188-189.
+[^1]: “One Year Old Today,” *The Daily Worker*, January 13, 1925, II edition, sec. 1, [Chronicling America](https://chroniclingamerica.loc.gov/data/batches/iune_emerald_ver03/data/sn84020097/00332897755/1925011301/0067.pdf.){:target="_blank" rel="noopener"}; Lee Overman, “Report of the Overman Committee” *Ideas and American Foreign Policy* (2018), 188-189.
 
