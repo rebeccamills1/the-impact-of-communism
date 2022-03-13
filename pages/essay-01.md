@@ -46,11 +46,11 @@ Font can be *Italic* or **Bold**.
 Citing your work is important! 
 
 Title sections of your essay with headings, by adding a pound sign (`#`) in front of the title:
-### My First Subheading
+### Origin and Impact of the Socialist Movement 
 
-# Heading One
+# The Decline of the Socialist Movement and Rise of the Communist Party During World War I 
 
-## Heading Two
+## The Rise of the Anti-Communist Movement After the Bolshevik Revolution 
 
 ### Heading Three, etc.
 
