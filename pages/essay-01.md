@@ -26,35 +26,12 @@ During the Progressive Era, the socialist movement in the United States position
 
 During World War I, the socialist movement stifled dissent when they promoted a unified anti-war response, which laid the foundation for divisions within the movement. Beginning in 1918, Eugene V. Debs denounced U.S. involvement in the war and argued that “[the master class] has trained [the working class] to believe it to be [their] patriotic duty to go to war.” This belief framed World War I as another capitalist venture imposed upon the working class, which became the basis of the Socialist Labor Party’s anti-war platform. Because of this opposition, some socialists resisted all policies that required them to support the war effort, such as enlisting in the draft. However, while the Socialist Labor Party formally criticized war, John Spargo, a member of the National Committee of the Socialist Party, recognized that all Americas should contribute to the war effort. Spargo’s pro-war position demonstrated that some party members remained loyal to their country and broke away from the Socialist Labor Party. This lack of tolerance for opposing ideals set the socialist movement on a collision course toward disunification.[^4] 
 
+The communist movement in the United States evolved to counteract the radical elements of the socialist movement, which exacerbated tensions between socialism and communism. Beginning in 1919, extreme factions of the socialist movement decried the Socialist Labor Party because they refused to “align [themselves] with the Bolshevik of Russia, and the Communist groups in other parts of Europe.” This refusal facilitated the founding of the Communist Labor Party in September of 1919, who asserted that they should adapt their tactics to fulfill the requirements of the working class. This party framed communism and association with Bolsheviks as solutions to end worker enslavement in the United States. Because of these solutions, communists supported policies, such as raising the “living standards” of the workers, that sought to ensure the dominion of the labors at the expense of capitalism. Dr. Karl Sandberg, chairman of the Communist Labor Party, reiterated this idea when he claimed that communism would be a tool to ensure the “inauguration of Industrial Democracy.” The communist movement provided radical Americans with an opportunity to reform economic and social institutions, but faced opposition during the Red Scare.[^5]
+
 ### The Rise of the Anti-Communist Movement After the Bolshevik Revolution 
 
+After the Bolshevik Revolution in 1917, the United States feared communists and its threat to American ideals, which demonstrated tensions between communism and democracy. In 1919, Senator Lee Overman, chairman of the Senate Overman Special Committee, investigated the ideology of what the committee termed as “Bolshevism.” Overman’s committee concluded that Bolshevik anti-democratic ideals penetrated U.S. society and threatened American values. This threat instilled fear in Americans and caused many to oppose communist ideologies, which caused the rise of the anticommunist movement. Because of this fear, the United States used the Espionage Act of 1917 and the Palmer Raids of 1919-1921, to root out radical ideologies. Attorney General Mitchell Palmer justified this elimination when he argued that “[America] can get rid of” those who “have infected our social ideas with the disease of their own minds.” He suggested that America should eliminate radical communist ideology from its borders to preserve democratic values. The United States rallied Americans around anticommunist ideology, but it did not diminish the influence of the Communist Party.[^6]
 
-Hyperlinks look like this [GitHub Help](https://help.github.com/).
-
-A bullet list is created using `*`, `+`, or `-`, like:
-
-- dog
-- cat
-- muffin
-
-A numbered list is created using a number + `.`, like:
-
-1. one
-2. two
-6. three
-2. four
-
-A horizontal line break can be useful for separating content:
-
-----
-
-Include an image:
-
-{% include feature/image.html filename="demo_001.jpg" alt="image of UI Admin building" caption="Historic photo of the University of Idaho campus" width="50" %}
-
-Include a pdf:
-
-{% include feature/pdf.html filename="demo_002.pdf" caption="Historic postcard" width="50" %}
 
 ## Conclusion
 
@@ -65,4 +42,6 @@ More documentation on how to write your essay in Markdown--as well as how to inc
 [^1]: “One Year Old Today,” *The Daily Worker*, January 13, 1925, II edition, sec. 1, [Chronicling America](https://chroniclingamerica.loc.gov/lccn/sn84020097/1925-01-13/ed-1/seq-1/){:target="_blank" rel="noopener"}; Lee Overman, “Report of the Overman Committee” *Ideas and American Foreign Policy* (2018), 188-189.
 [^2]: “Pledge of Socialists,” *New York Tribune*, January 8, 1920, 79 edition, sec. 26,716, pp. 1-24, [Chronicling America](https://chroniclingamerica.loc.gov/lccn/sn83030214/1920-01-08/ed-1/seq-2/#date1=1777&index=1&rows=20&words=America+elected+party+Socialist&searchType=basic&sequence=0&state=&date2=1963&proxtext=Socialist+Party+elections+AND+%22America%22&y=0&x=0&dateFilterType=yearRange&page=1){:target="_blank" rel="noopener"}; William Mailly, *National Convention of the Socialist Party 1904* (Chicago, 1904), 54-61, 148, 175, 201-203.
 [^3]: “Social Democratic Party,” *The Advocate and News.* November 23, 1898, 10 edition. [Chronicling America](https://chroniclingamerica.loc.gov/lccn/sn85032019/1898-11-23/ed-1/seq-9/){:target="_blank" rel="noopener"}
-[4]: Eugene V. Debs “Canton Ohio Anti-War Speech” Ideas and American Foreign Policy (2018), 170; Charles T White, “Socialist Revolt over Anti-War Policy Grows,” New York Tribune, March 25, 1918, IXVII edition, sec. 26,062, pp. 1-14, [Chronocling America](https://chroniclingamerica.loc.gov/lccn/sn83030214/1918-03-25/ed-1/seq-14/){:target="_blank" rel="noopener"}
+[^4]: Eugene V. Debs “Canton Ohio Anti-War Speech” Ideas and American Foreign Policy (2018), 170; Charles T White, “Socialist Revolt over Anti-War Policy Grows,” New York Tribune, March 25, 1918, IXVII edition, sec. 26,062, pp. 1-14, [Chronocling America](https://chroniclingamerica.loc.gov/lccn/sn83030214/1918-03-25/ed-1/seq-14/){:target="_blank" rel="noopener"}
+[^5]:“Against the ‘New Deal’ of Hunger, Fascism and War! For the Revolutionary Solution of the Crisis!” Daily Worker , April 28, 1934, sec. 2, https://chroniclingamerica.loc.gov/lccn/sn84020097/1934-04-28/ed-2/seq-1/#date1=1929&index=6&rows=20&words=COMMUNIST+Communist+PARTY+Party&searchType=basic&sequence=0&state=&date2=1939&proxtext=communist+party; Lee Overman, “Report of the Overman Committee,” 188-189; Tim Davenport , ed., “Minutes of the Left Wing Caucus of the 1919 Convention of the Socialist Party of America." Marxists.org (Marxists.org), accessed March 13, 2022, [Minutes of the Left Wing Caucus of the 1919 Convention of the Socialist Party of America] (https://www.marxists.org/history/usa/parties/spusa/1919/0831-lwcaucus-minutes.pdf){:target="_blank" rel="noopener"}; Karl Sandberg, “Statement of the Illinois Delegates Who Withdrew
+from the Emergency Convention and Participated in the Formation of the Communist Labor Party." Marxists.org (Marxists.org, September 1919), [Statement of the Illinois Delegates Who Withdrew from the Emergency Convention and Participted in the Formation of the Communist Labor Party] (https://www.marxists.org/history/usa/parties/cpusa/1919/09/0900-clp-illinoisstatement.pdf){:target="_blank" rel="noopener"}
