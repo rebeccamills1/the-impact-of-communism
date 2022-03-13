@@ -33,6 +33,8 @@ After the Bolshevik Revolution in 1917, the United States feared communists and 
 
 [Espionage Act of 1917](https://iowaculture.gov/history/education/educator-resources/primary-source-sets/americas-involvement-world-war-i/espionage){:target="_blank" rel="noopener"}
 
+[Bolshevik Propoganda](https://ia600201.us.archive.org/32/items/cu31924030480051/cu31924030480051.pdf){:target="_blank" rel="noopener"}
+
 {% include feature/image.html filename="U.S.-Russia-Relations-1900-1944-State-of-the-Union-Addresses.png" alt="This is an image of a trend graph generated from the 20th Century State of the Union Addresses from 1900-1945." caption="This trend graph illustrates how frequently each president mentioned communism, socialist, radical, revolution and Russia in their State of the Union Addresses from 1900-1945." %}
 
 ### The Tensions Between the Communist Party and the Anticommunist Movement During the Great Depression and World War II
