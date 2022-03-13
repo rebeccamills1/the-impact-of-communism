@@ -13,40 +13,14 @@ permalink: /essay-01.html
 {% include feature/image.html filename="U.S.-Russia-Relations-1900-1944-State-of-the-Union-Addresses.png" alt="This is an image of a trend graph generated from the 20th Century State of the Union Addresses from 1900-1945." caption="This trend graph illustrates how frequently each president mentioned communism, socialist, radical, revolution and Russia in their State of the Union Addresses from 1900-1945." %}
 
 {% include feature/line-chart.html data="party-platforms-20th-century-all" topic=" International relationships" %}
-This line graph explores the relationship between communism and its implications for America's political rhetoric. I am not suprised that the use of "soviet policy" rose between 1952 and 1976 because these decades represent the height of the Cold War. I find it interesting that the Soviet Union continued to influence political rhetoric in the United States in 2000. This graph demonstrates how communism molded America's foreign and domestic policy decisions during the 20th Century.
-
-
----
-
-
-[GitHub Help](https://help.github.com/){:target="_blank" rel="noopener"}
-
-The United States wavered between maintaing neutrality or becoming entrenched in global affairs, which excaberated the tensions between isolationism and internationalism. Paul Nitze, author of "NSC 68: 'United States Objectives and Programs for National Security," argued that America should "affirm the necessity of their positive participation in the global community" (Nitize 14). This idea suggested that the United States should position itself as a world leader if it wanted to unite its allies against communism (Nitze 14).
-
-*McCarthyism*
-
-**Soviet Union**
-
-[National Security Council Report, NSC 68, 'United States Objectives and Programs for National Security'](https://digitalarchive.wilsoncenter.org/document/116191.pdf)
-
--Joseph McCarthy
-
--Communism
-
--National Civic Federation
 
 ## Introduction
 
 Prior to World War II, Americans viewed communism as both a solution to the problems of capitalism and a threat that clashed with U.S. values. The United States Senate and others recognized that America should spread democracy abroad to counteract the influence of communism. However, others, such as *The Daily Worker*, argued that communism instituted a system of worker equality and allowed them to shake off the chains of capitalist control. These tensions exacerbated conflicts between American communists and anticommunists. During 1900-1945, the United States developed a strained relationship with communism, centered around tensions between the communist, socialist and anti-communist movements, which culminated in the start of the Cold War.[^1]
 
-Leave an empty line between headings and paragraphs.
+### Origin and Impact of the Socialist Movement
 
-Font can be *Italic* or **Bold**.
-
-Citing your work is important! 
-
-Title sections of your essay with headings, by adding a pound sign (`#`) in front of the title:
-### Origin and Impact of the Socialist Movement 
+During the Progressive Era, the socialist movement in the United States positioned itself as a champion of worker reforms that sought to remedy the problems of capitalism, which demonstrated capital-labor conflicts. Beginning in 1898, labor activists viewed the industrialization and corruption of the Gilded Age as catalysts for social and economic inequality in the U.S. This inequality facilitated the founding of the Social Democratic Party and the Socialist Labor Party in 1901, who argued that America’s problems stemmed from “two distinct classes with conflicting interests.” This idea framed capitalism as a conflict between those who controlled the product of labor and laborers. Because of this conflict, socialists, such as Eugene V. Debs, campaigned for reforms, such as referendums and communal economic control, that sought to solidify government control over economic life in the U.S. and expand the political power of the people. William Mailly, National Secretary of the Socialist Party, reinforced this notion when he asserted that socialists should “combine democracy in management, efficiency in action and economy in labor and expense” to achieve their goals. He suggested that Americans should elect socialist candidates and use democratic means to enact reforms that benefited workers. The Socialist Labor Party provided Americans with real opportunities to use the government to solve some of their most pressing problems.[^2]
 
 ### The Decline of the Socialist Movement and Rise of the Communist Party During World War I 
 
@@ -87,4 +61,4 @@ More documentation on how to write your essay in Markdown--as well as how to inc
 ## Notes
 
 [^1]: “One Year Old Today,” *The Daily Worker*, January 13, 1925, II edition, sec. 1, [Chronicling America](https://chroniclingamerica.loc.gov/lccn/sn84020097/1925-01-13/ed-1/seq-1/){:target="_blank" rel="noopener"}; Lee Overman, “Report of the Overman Committee” *Ideas and American Foreign Policy* (2018), 188-189.
-
+[^2]: “Pledge of Socialists,” *New York Tribune*, January 8, 1920, 79 edition, sec. 26,716, pp. 1-24, [Chronicling America] (https://chroniclingamerica.loc.gov/data/batches/dlc_carril_ver01/data/sn83030214/00206532476/1920010801/0228.pdf){:target="_blank" rel="noopener"};“Social Democratic Party,” *The Advocate and News.* November 23, 1898, 10 edition. [Chronicling America] (https://chroniclingamerica.loc.gov/lccn/sn85032019/1898-11-23/ed-1/seq-1/){:target="_blank" rel="noopener"} ; William Mailly, *National Convention of the Socialist Party 1904* (Chicago, 1904), 54-61, 148, 175, 201-203.
