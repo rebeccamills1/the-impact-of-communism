@@ -4,7 +4,7 @@ layout: about
 permalink: /essay-01.html
 ---
 
-{% include feature/nav-menu.html sections="Introduction;My First Subheading;Conclusion;Notes" %}
+{% include feature/nav-menu.html sections="Introduction;Origin and Impact of the Socialist Movement;The Decline of the Socialist Movement and Rise of the Communist Party During World War I;The Rise of the Anti-Communist Movement After the Bolshevik Revolution;The Tensions Between the Communist Party and the Anticommunist Movement During the Great Depression and World War II;Conclusion;Notes" %}
 
 # America's Political Response to Communism
 
