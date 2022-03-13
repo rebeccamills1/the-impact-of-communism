@@ -14,13 +14,16 @@ permalink: /essay-01.html
 
 {% include feature/line-chart.html data="party-platforms-20th-century-all" topic=" International relationships" %}
 
-## Introduction
+### Introduction
 
 Prior to World War II, Americans viewed communism as both a solution to the problems of capitalism and a threat that clashed with U.S. values. The United States Senate and others recognized that America should spread democracy abroad to counteract the influence of communism. However, others, such as *The Daily Worker*, argued that communism instituted a system of worker equality and allowed them to shake off the chains of capitalist control. These tensions exacerbated conflicts between American communists and anticommunists. During 1900-1945, the United States developed a strained relationship with communism, centered around tensions between the communist, socialist and anti-communist movements, which culminated in the start of the Cold War.[^1]
 
 ### Origin and Impact of the Socialist Movement
 
 During the Progressive Era, the socialist movement in the United States positioned itself as a champion of worker reforms that sought to remedy the problems of capitalism, which demonstrated capital-labor conflicts. Beginning in 1898, labor activists viewed the industrialization and corruption of the Gilded Age as catalysts for social and economic inequality in the U.S. This inequality facilitated the founding of the Social Democratic Party and the Socialist Labor Party in 1901, who argued that America’s problems stemmed from “two distinct classes with conflicting interests.” This idea framed capitalism as a conflict between those who controlled the product of labor and laborers. Because of this conflict, socialists, such as Eugene V. Debs, campaigned for reforms, such as referendums and communal economic control, that sought to solidify government control over economic life in the U.S. and expand the political power of the people. William Mailly, National Secretary of the Socialist Party, reinforced this notion when he asserted that socialists should “combine democracy in management, efficiency in action and economy in labor and expense” to achieve their goals. He suggested that Americans should elect socialist candidates and use democratic means to enact reforms that benefited workers.[^2]. The Socialist Labor Party provided Americans with real opportunities to use the government to solve some of their most pressing problems.[^3]
+
+
+{% include feature/image.html filename="National Socialist Convention Image 1901.jpg" alt="This image shows the delegates to the National Socialist Convention in 1901." caption="This image shows the delegates to the National Socialist Convention in 1901." link="https://tile.loc.gov/storage-services/service/pnp/ppmsca/33900/33991v.jpg" %}
 
 ### The Decline of the Socialist Movement and Rise of the Communist Party During World War I 
 
@@ -32,11 +35,11 @@ The communist movement in the United States evolved to counteract the radical el
 
 After the Bolshevik Revolution in 1917, the United States feared communists and its threat to American ideals, which demonstrated tensions between communism and democracy. In 1919, Senator Lee Overman, chairman of the Senate Overman Special Committee, investigated the ideology of what the committee termed as “Bolshevism.” Overman’s committee concluded that Bolshevik anti-democratic ideals penetrated U.S. society and threatened American values. This threat instilled fear in Americans and caused many to oppose communist ideologies, which caused the rise of the anticommunist movement. Because of this fear, the United States used the Espionage Act of 1917 and the Palmer Raids of 1919-1921, to root out radical ideologies. Attorney General Mitchell Palmer justified this elimination when he argued that “[America] can get rid of” those who “have infected our social ideas with the disease of their own minds.” He suggested that America should eliminate radical communist ideology from its borders to preserve democratic values. The United States rallied Americans around anticommunist ideology, but it did not diminish the influence of the Communist Party.[^7]
 
-## The Tensions Between the Communist Party and the Anticommunist Movement During the Great Depression and World War II
+### The Tensions Between the Communist Party and the Anticommunist Movement During the Great Depression and World War II
 
 During the Great Depression and World War II, the communist movement championed economic reforms that could remedy the problems of capitalism, but they faced opposition from the anticommunist movement. In 1934, the Communist Party of the United States criticized President Roosevelt’s New Deal Reforms and argued that “Roosevelt and his New Deal represent the Wall Street Bankers and big corporations.” This criticism implied that the New Deal hurt the working class because it provided government aid to the capitalists at the expense of laborers. Because of this conflict, the Communist Party advocated for policies, such as unemployment, that protected laborers while decreasing capitalist earnings. However, while the Communist Labor Party sought to enact reforms that supported the working class, anticommunists, such as Elizabeth Dilling, recognized that communism “[undermined] America like a cancerous growth."[^8] Dilling’s characterization solidified the beginning of unified opposition against communism, which fueled the Cold War.[^9] 
 
-## Conclusion
+### Conclusion
 
 From 1898 through 1945, the socialist and communist movements appealed to a minority of Americans even when they faced resistance.  Socialist and communist leaders, such as Eugene V. Debs, advocated for reforms that eliminated capitalism and provided equal opportunities for all workers.  However, anticommunist leaders, such as Senator Overman, argued that communism promoted totalitarian values and threatened American democracy.  These tensions changed the relationship between communism, socialism and anticommunism because America wavered between supporting or opposing communism.  This contradictory relationship raises one question: how the conflict between communism and anticommunism initiated the Cold War?[^10]
 
