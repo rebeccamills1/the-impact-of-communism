@@ -24,6 +24,8 @@ During the Progressive Era, the socialist movement in the United States position
 
 ### The Decline of the Socialist Movement and Rise of the Communist Party During World War I 
 
+During World War I, the socialist movement stifled dissent when they promoted a unified anti-war response, which laid the foundation for divisions within the movement. Beginning in 1918, Eugene V. Debs denounced U.S. involvement in the war and argued that “[the master class] has trained [the working class] to believe it to be [their] patriotic duty to go to war.” This belief framed World War I as another capitalist venture imposed upon the working class, which became the basis of the Socialist Labor Party’s anti-war platform. Because of this opposition, some socialists resisted all policies that required them to support the war effort, such as enlisting in the draft. However, while the Socialist Labor Party formally criticized war, John Spargo, a member of the National Committee of the Socialist Party, recognized that all Americas should contribute to the war effort. Spargo’s pro-war position demonstrated that some party members remained loyal to their country and broke away from the Socialist Labor Party. This lack of tolerance for opposing ideals set the socialist movement on a collision course toward disunification.[^4] 
+
 ### The Rise of the Anti-Communist Movement After the Bolshevik Revolution 
 
 
@@ -62,4 +64,5 @@ More documentation on how to write your essay in Markdown--as well as how to inc
 
 [^1]: “One Year Old Today,” *The Daily Worker*, January 13, 1925, II edition, sec. 1, [Chronicling America](https://chroniclingamerica.loc.gov/lccn/sn84020097/1925-01-13/ed-1/seq-1/){:target="_blank" rel="noopener"}; Lee Overman, “Report of the Overman Committee” *Ideas and American Foreign Policy* (2018), 188-189.
 [^2]: “Pledge of Socialists,” *New York Tribune*, January 8, 1920, 79 edition, sec. 26,716, pp. 1-24, [Chronicling America](https://chroniclingamerica.loc.gov/lccn/sn83030214/1920-01-08/ed-1/seq-2/#date1=1777&index=1&rows=20&words=America+elected+party+Socialist&searchType=basic&sequence=0&state=&date2=1963&proxtext=Socialist+Party+elections+AND+%22America%22&y=0&x=0&dateFilterType=yearRange&page=1){:target="_blank" rel="noopener"}; William Mailly, *National Convention of the Socialist Party 1904* (Chicago, 1904), 54-61, 148, 175, 201-203.
-[^3]:“Social Democratic Party,” *The Advocate and News.* November 23, 1898, 10 edition. [Chronicling America](https://chroniclingamerica.loc.gov/lccn/sn85032019/1898-11-23/ed-1/seq-9/){:target="_blank" rel="noopener"}
+[^3]: “Social Democratic Party,” *The Advocate and News.* November 23, 1898, 10 edition. [Chronicling America](https://chroniclingamerica.loc.gov/lccn/sn85032019/1898-11-23/ed-1/seq-9/){:target="_blank" rel="noopener"}
+[4]: Eugene V. Debs “Canton Ohio Anti-War Speech” Ideas and American Foreign Policy (2018), 170; Charles T White, “Socialist Revolt over Anti-War Policy Grows,” New York Tribune, March 25, 1918, IXVII edition, sec. 26,062, pp. 1-14, [Chronocling America](https://chroniclingamerica.loc.gov/lccn/sn83030214/1918-03-25/ed-1/seq-14/){:target="_blank" rel="noopener"}
