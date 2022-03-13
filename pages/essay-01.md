@@ -8,11 +8,6 @@ permalink: /essay-01.html
 
 # America's Political Response to Communism
 
-{% include feature/image.html filename="National Socialist Convention Image 1901.jpg" alt="This is an image of the delegates at the 1901 National Socialist Convention." caption="This is an image of the delegates at the 1901 National Socialist Convention." link="https://tile.loc.gov/storage-services/service/pnp/ppmsca/33900/33991v.jpg" %}
-
-{% include feature/image.html filename="U.S.-Russia-Relations-1900-1944-State-of-the-Union-Addresses.png" alt="This is an image of a trend graph generated from the 20th Century State of the Union Addresses from 1900-1945." caption="This trend graph illustrates how frequently each president mentioned communism, socialist, radical, revolution and Russia in their State of the Union Addresses from 1900-1945." %}
-
-{% include feature/line-chart.html data="party-platforms-20th-century-all" topic=" International relationships" %}
 
 ### Introduction
 
@@ -34,6 +29,9 @@ The communist movement in the United States evolved to counteract the radical el
 ### The Rise of the Anti-Communist Movement After the Bolshevik Revolution 
 
 After the Bolshevik Revolution in 1917, the United States feared communists and its threat to American ideals, which demonstrated tensions between communism and democracy. In 1919, Senator Lee Overman, chairman of the Senate Overman Special Committee, investigated the ideology of what the committee termed as “Bolshevism.” Overman’s committee concluded that Bolshevik anti-democratic ideals penetrated U.S. society and threatened American values. This threat instilled fear in Americans and caused many to oppose communist ideologies, which caused the rise of the anticommunist movement. Because of this fear, the United States used the Espionage Act of 1917 and the Palmer Raids of 1919-1921, to root out radical ideologies. Attorney General Mitchell Palmer justified this elimination when he argued that “[America] can get rid of” those who “have infected our social ideas with the disease of their own minds.” He suggested that America should eliminate radical communist ideology from its borders to preserve democratic values. The United States rallied Americans around anticommunist ideology, but it did not diminish the influence of the Communist Party.[^7]
+
+
+{% include feature/image.html filename="U.S.-Russia-Relations-1900-1944-State-of-the-Union-Addresses.png" alt="This is an image of a trend graph generated from the 20th Century State of the Union Addresses from 1900-1945." caption="This trend graph illustrates how frequently each president mentioned communism, socialist, radical, revolution and Russia in their State of the Union Addresses from 1900-1945." %}
 
 ### The Tensions Between the Communist Party and the Anticommunist Movement During the Great Depression and World War II
 
