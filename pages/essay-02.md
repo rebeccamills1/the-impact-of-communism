@@ -43,6 +43,8 @@ During the Great Depression and World War II, the communist movement championed 
 
 {% include feature/pdf.html filename="NSC 68.pdf" caption="This is a National Security Report that outlines America's Cold War strategies." link="https://digitalarchive.wilsoncenter.org/document/116191 " %}
 
+{% include feature/image.html filename="President Harry S. Truman's Unpublished Response to Senator McCarthy's Telegram.gif" alt="This is an image of President Harry S Truman's response to Senator Joseph McCarthy's telegram about communism." caption="This is an image of President Harry S Truman's response to Senator Joseph McCarthy's telegram about communism." link="https://www.archives.gov/education/lessons/mccarthy-telegram" %}
+
 ### Conclusion
 
 From 1898 through 1945, the socialist and communist movements appealed to a minority of Americans even when they faced resistance.  Socialist and communist leaders, such as Eugene V. Debs, advocated for reforms that eliminated capitalism and provided equal opportunities for all workers.  However, anticommunist leaders, such as Senator Overman, argued that communism promoted totalitarian values and threatened American democracy.  These tensions changed the relationship between communism, socialism and anticommunism because America wavered between supporting or opposing communism.  This contradictory relationship raises one question: how the conflict between communism and anticommunism initiated the Cold War?[^10]
