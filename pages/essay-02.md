@@ -37,6 +37,11 @@ After the Bolshevik Revolution in 1917, the United States feared communists and 
 
 {% include feature/image.html filename="U.S.-Russia-Relations-1900-1944-State-of-the-Union-Addresses.png" alt="This is an image of a trend graph generated from the 20th Century State of the Union Addresses from 1900-1945." caption="This trend graph illustrates how frequently each president mentioned communism, socialist, radical, revolution and Russia in their State of the Union Addresses from 1900-1945." %}
 
+<blockquote class="blockquote pt-3 pb-5" style="font-size: 1.75rem; margin-left: auto; margin-right: auto; max-width: 650px;">
+  <p class="mb-0">We here are convinced that never since termination of civil war have mass of Russian people been emotionally further removed from doctrines of communist party than they are today.</p>
+  <footer class="blockquote-footer text-right">George Kennan, <cite title="Source Title">"<a href="https://www.trumanlibraryinstitute.org/kennan/" target="_blank" rel="noopener">Quotes</a>"</cite></footer>
+</blockquote>
+
 ### The Tensions Between the Communist Party and the Anticommunist Movement During the Great Depression and World War II
 
 During the Great Depression and World War II, the communist movement championed economic reforms that could remedy the problems of capitalism, but they faced opposition from the anticommunist movement. In 1934, the Communist Party of the United States criticized President Roosevelt’s New Deal Reforms and argued that “Roosevelt and his New Deal represent the Wall Street Bankers and big corporations.” This criticism implied that the New Deal hurt the working class because it provided government aid to the capitalists at the expense of laborers. Because of this conflict, the Communist Party advocated for policies, such as unemployment, that protected laborers while decreasing capitalist earnings. However, while the Communist Labor Party sought to enact reforms that supported the working class, anticommunists, such as Elizabeth Dilling, recognized that communism “[undermined] America like a cancerous growth."[^8] Dilling’s characterization solidified the beginning of unified opposition against communism, which fueled the Cold War.[^9] 
