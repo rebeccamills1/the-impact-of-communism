@@ -38,8 +38,8 @@ After the Bolshevik Revolution in 1917, the United States feared communists and 
 {% include feature/image.html filename="U.S.-Russia-Relations-1900-1944-State-of-the-Union-Addresses.png" alt="This is an image of a trend graph generated from the 20th Century State of the Union Addresses from 1900-1945." caption="This trend graph illustrates how frequently each president mentioned communism, socialist, radical, revolution and Russia in their State of the Union Addresses from 1900-1945." %}
 
 <blockquote class="blockquote pt-3 pb-5" style="font-size: 1.75rem; margin-left: auto; margin-right: auto; max-width: 650px;">
-  <p class="mb-0">We here are convinced that never since termination of civil war have mass of Russian people been emotionally further removed from doctrines of communist party than they are today.</p>
-  <footer class="blockquote-footer text-right">George Kennan, <cite title="Source Title">"<a href="https://www.trumanlibraryinstitute.org/kennan/" target="_blank" rel="noopener">Truman Library Institute</a>"</cite></footer>
+  <p class="mb-0">We here are convinced that never since [the] termination of [a] civil war have [the] mass of Russian people been emotionally further removed from doctrines of [the] communist party than they are today.</p>
+  <footer class="blockquote-footer text-right">George Kennan, <cite title="Source Title">"<a href="https://www.trumanlibraryinstitute.org/kennan/" target="_blank" rel="noopener">The Long Telegram</a>"</cite></footer>
 </blockquote>
 
 ### The Tensions Between the Communist Party and the Anticommunist Movement During the Great Depression and World War II
