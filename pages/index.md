@@ -5,12 +5,6 @@ permalink: /
 credits: true
 ---
 
-# Digital History Project
+# The Effects of Communism and Anti-Communism on 20th Century American Politics
 
-This is the project site for the HIST 320 digital history project. Instructions for how to use this site to write your multimedia essay can be found at the accompanying documentation site, <https://learn-static.github.io/hist-320/web-setup.html>.
-
-Your Essay in Progress will be written on the [Essay In Progress](/essay-01.html) page, while your final essay will be written on the [Final Essay](/essay-02.html) page. 
-
-Links to all of the State of the Union Addresses and Party Platforms used in our text analysis and topic modeling can be found on the [Data](/data.html) page.
-
-[Topic visualizations](/topics/sotu-20th-century-topics.html) will appear as you name them, and you can use the [Include Generator](/generator.html) page to create code that includes supporting documents and images into your essays.
+The United States developed a contentious relationship with communism and socialism, which exacerbated tensions between the communist and anti-communist movements. Senator Lee Overman and others argued that America should spread democracy and freedom abroad to counteract communism’s influence. Others, such as Eugene V. Debs, claimed that communism promoted worker equality and eliminated capitalist corruption and inequality. This multimedia essay traces the evolution of communism, socialism, and anti-communism in the United States and explores how these ideologies shaped America’s political policies.
