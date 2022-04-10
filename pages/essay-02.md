@@ -54,6 +54,9 @@ During the Great Depression and World War II, the communist movement championed 
 
 From 1898 through 1945, the socialist and communist movements appealed to a minority of Americans even when they faced resistance.  Socialist and communist leaders, such as Eugene V. Debs, advocated for reforms that eliminated capitalism and provided equal opportunities for all workers.  However, anticommunist leaders, such as Senator Overman, argued that communism promoted totalitarian values and threatened American democracy.  These tensions changed the relationship between communism, socialism and anticommunism because America wavered between supporting or opposing communism.  This contradictory relationship raises one question: how the conflict between communism and anticommunism initiated the Cold War?[^10]
 
+{% include feature/line-chart.html data="sotu-1946-2000" topic=" America as a World Power" %}
+
+This graph demonstrates how frequently each president discussed America’s role as a global power in their State of the Union Addresses. It illustrates the growth of America’s global influence and its effects on the post-World War II liberal order. I chose to include this graph because it suggests that global defense became an important tool to contain communism. 
 
 ## Notes
 
