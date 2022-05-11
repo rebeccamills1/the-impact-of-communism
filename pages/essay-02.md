@@ -54,6 +54,8 @@ During the Great Depression and World War II, the communist movement championed 
 
 ### The Tensions Within the Anti-Communist Movement and the Rise of the New Left 
 
+[Statement of J. Edgar Hoover, Director, Federal Bureau of Investigation Before President’s Commission on Campus Unrest](https://catalog.archives.gov/id/29915391){:target="_blank" rel="noopener"}
+
 ### The End of the Cold War 
 
 ### Conclusion
