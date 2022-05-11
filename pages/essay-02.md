@@ -46,9 +46,15 @@ After the Bolshevik Revolution in 1917, the United States feared communists and 
 
 During the Great Depression and World War II, the communist movement championed economic reforms that could remedy the problems of capitalism, but they faced opposition from the anticommunist movement. In 1934, the Communist Party of the United States criticized President Roosevelt’s New Deal Reforms and argued that “Roosevelt and his New Deal represent the Wall Street Bankers and big corporations.” This criticism implied that the New Deal hurt the working class because it provided government aid to the capitalists at the expense of laborers. Because of this conflict, the Communist Party advocated for policies, such as unemployment, that protected laborers while decreasing capitalist earnings. However, while the Communist Labor Party sought to enact reforms that supported the working class, anticommunists, such as Elizabeth Dilling, recognized that communism “[undermined] America like a cancerous growth."[^8] Dilling’s characterization solidified the beginning of unified opposition against communism, which fueled the Cold War.[^9] 
 
+### The Rise of the Anti-Communist Movement and the Policy of Domestic Containment During the 1950s
+
 {% include feature/pdf.html filename="NSC 68.pdf" caption="This is a National Security Report that outlines America's Cold War strategies." link="https://digitalarchive.wilsoncenter.org/document/116191 " %}
 
 {% include feature/image.html filename="President Harry S. Truman's Unpublished Response to Senator McCarthy's Telegram.gif" alt="This is an image of President Harry S Truman's response to Senator Joseph McCarthy's telegram about communism." caption="This is an image of President Harry S Truman's response to Senator Joseph McCarthy's telegram about communism." link="https://www.archives.gov/education/lessons/mccarthy-telegram" %}
+
+### The Tensions Within the Anti-Communist Movement and the Rise of the New Left 
+
+### The End of the Cold War 
 
 ### Conclusion
 
