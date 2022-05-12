@@ -109,7 +109,7 @@ From 1898 through 2000, the socialist and communist movements appealed to a mino
 
 [^14]: Julia Emily Johnsen, *Should the Communist Party Be Outlawed?*, vol. 20 (New York, NY : H.W. Wilson Company, 1949), 7, 15, 11
 
-[^15]: Joseph McCarthy,“Enemies from Within” Speech Delivered in Wheeling, West Virginia (1950) (University of Texas), accessed May 12, 2022, [University of Texas](https://liberalarts.utexas.edu/coretexts/_files/resources/texts/1950%20McCarthy%20Enemies.pdf.){:target="_blank" rel="noopener"}; Joseph McCarthy,*Major Speeches and Debates of Senator Joe McCarthy Delivered in the United States Senate, 1950-1951: Reprint from the Congressional Record* (New York, NY: Gordon Press, 1975), 5.
+[^15]: Joseph McCarthy,“Enemies from Within” Speech Delivered in Wheeling, West Virginia (1950) (History Matters.com), accessed May 12, 2022, [History Matters](http://historymatters.gmu.edu/d/6456){:target="_blank" rel="noopener"}; Joseph McCarthy,*Major Speeches and Debates of Senator Joe McCarthy Delivered in the United States Senate, 1950-1951: Reprint from the Congressional Record* (New York, NY: Gordon Press, 1975), 5.
 
 [^16]: Joseph Stalin, “Speech Delivered by Stalin at a Meeting of Voters of the Stalin Electoral District, Moscow,” Willson Center Digital Archive, (Willson Center Digital Archive), accessed May 12, 2022, [Wilson Center Digital Archive](https://digitalarchive.wilsoncenter.org/document/116179.){:target="_blank" rel="noopener"}
 [^17]: Dwight D Eisenhower, “Sixth Draft - Eisenhowerlibrary.gov,” Eisenhower Library (Eisenhower Library ), accessed May 12, 2022, [Eisenhower Library](https://www.eisenhowerlibrary.gov/sites/default/files/research/online-documents/mccarthyism/1952-10-03-sixth-draft.pdf.){:target="_blank" rel="noopener"}
