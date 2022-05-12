@@ -4,7 +4,7 @@ layout: about
 permalink: /essay-02.html
 ---
 
-{% include feature/nav-menu.html sections="Introduction;Origin and Impact of the Socialist Movement;The Decline of the Socialist Movement and Rise of the Communist Party During World War I;The Rise of the Anti-Communist Movement After the Bolshevik Revolution;The Tensions Between the Communist Party and the Anticommunist Movement During the Great Depression and World War II;Conclusion;Notes" %}
+{% include feature/nav-menu.html sections="Introduction;Origin and Impact of the Socialist Movement;The Decline of the Socialist Movement and Rise of the Communist Party During World War I;The Rise of the Anti-Communist Movement After the Bolshevik Revolution;The Tensions Between the Communist Party and the Anticommunist Movement During the Great Depression and World War II;The Rise of the Anti-Communist Movement and the Policy of Domestic Containment During the 1950s;Tensions Within the Anti-Communist Movement and the Rise of the New Left;The End of the Cold War;Conclusion;Notes" %}
 
 # America's Political Response to Communism
 
