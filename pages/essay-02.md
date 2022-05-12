@@ -72,7 +72,6 @@ From 1898 through 1945, the socialist and communist movements appealed to a mino
 
 This graph demonstrates how frequently each president discussed America’s role as a global power in their State of the Union Addresses. It illustrates the growth of America’s global influence and its effects on the post-World War II liberal order. I chose to include this graph because it suggests that global defense became an important tool to contain communism. 
 
-{% include feature/image.html filename="President Harry S. Truman's Unpublished Response to Senator McCarthy's Telegram.gif" alt="TBD" %}
 
 ## Notes
 
