@@ -85,8 +85,7 @@ This graph demonstrates how frequently each president discussed America’s role
 
 [^2]: “Pledge of Socialists,” *New York Tribune*, January 8, 1920, 79 edition, sec. 26,716, pp. 1-24, [Chronicling America](https://chroniclingamerica.loc.gov/lccn/sn83030214/1920-01-08/ed-1/seq-2/#date1=1777&index=1&rows=20&words=America+elected+party+Socialist&searchType=basic&sequence=0&state=&date2=1963&proxtext=Socialist+Party+elections+AND+%22America%22&y=0&x=0&dateFilterType=yearRange&page=1){:target="_blank" rel="noopener"}; William Mailly, *National Convention of the Socialist Party 1904* (Chicago, 1904), 54-61, 148, 175, 201-203.
 
-[^3]:“Socialist Party of America Will Locate Here,” The St. Louis Republic , August 2, 1901, p. 6, 
-[Chronicling America](https://chroniclingamerica.loc.gov/lccn/sn84020274/1901-08-02/ed-1/seq-6/){:target="_blank" rel="noopener"}
+[^3]:“Socialist Party of America Will Locate Here,” The St. Louis Republic , August 2, 1901, p. 6, [Chronicling America](https://chroniclingamerica.loc.gov/lccn/sn84020274/1901-08-02/ed-1/seq-6/){:target="_blank" rel="noopener"}
 
 [^4]: “Social Democratic Party,” *The Advocate and News.* November 23, 1898, 10 edition. [Chronicling America](https://chroniclingamerica.loc.gov/lccn/sn85032019/1898-11-23/ed-1/seq-9/){:target="_blank" rel="noopener"}; Eugene V Debs , “Debs Attacks ‘the Monstrous System’ of Capitalism,” History Matters---The U.S. Survey Course on the Web (History Matters-- The U.S. Survey Course on the Web, accessed May 11, 2022, [History Matters](http://historymatters.gmu.edu/d/5725/.){:target="_blank" rel="noopener"}
 
@@ -106,7 +105,7 @@ This graph demonstrates how frequently each president discussed America’s role
 
 [^12]: Harry Truman, “The Truman Doctrine” *Ideas and American Foreign Policy* (2018), pp. 248-250; Glenda Elizabeth Gilmore and Thomas J. Sugrue, *These United States: A Nation in the Making* (New York, NY: W.W. Norton & Company, 2016), 291; “Taft-Hartley Act Labor Management Relations Act,” Taft-Hartley Act Labor Management Relations Act, accessed May 12, 2022, [Taft-Hartley Act](https://cpb-us-w2.wpmucdn.com/blogs.cofc.edu/dist/8/406/files/2015/02/TAFT-HARTLEY-ACT-1oqzhdd.pdf.){:target="_blank" rel="noopener"}
 
-[^13]: Harry S Truman, “Executive Order 9835,” Executive Order 9835 | Harry S. Truman (National Archives), accessed May 11, 2022, [Executive Order 9835](https://www.trumanlibrary.gov/library/executive-orders/9835/executive-order-9835.){:target="_blank" rel="noopener"}
+[^13]: Harry S Truman, “Executive Order 9835,” Executive Order 9835 (National Archives), accessed May 11, 2022, [Executive Order 9835 (https://www.trumanlibrary.gov/library/executive-orders/9835/executive-order-9835.){:target="_blank" rel="noopener"}
 
 [^14]: Julia Emily Johnsen, *Should the Communist Party Be Outlawed?*, vol. 20 (New York, NY : H.W. Wilson Company, 1949), 7, 15, 11
 
