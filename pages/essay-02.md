@@ -71,7 +71,7 @@ The United States maintained its anti-communist policies and promoted democracy 
 
 <blockquote class="blockquote pt-3 pb-5" style="font-size: 1.75rem; margin-left: auto; margin-right: auto; max-width: 650px;">
   <p class="mb-0"> Mr. Gorbachev, tear down this wall!.</p>
-  <footer class="blockquote-footer text-right">Ronald Reagan, <cite title="Source Title">"<a href="https://www.archives.gov/publications/prologue/2007/summer/berlin.html" target="_blank" rel="noopener">The Long Telegram</a>"</cite></footer>
+  <footer class="blockquote-footer text-right">Ronald Reagan, <cite title="Source Title">"<a href="https://www.archives.gov/publications/prologue/2007/summer/berlin.html" target="_blank" rel="noopener">Address at the Brandenburg Gate</a>"</cite></footer>
 </blockquote>
 
 ### Conclusion
